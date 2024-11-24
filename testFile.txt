@@ -1,1 +1,2 @@
 This is another cli test
+This is the fix for MyMagicError-First
